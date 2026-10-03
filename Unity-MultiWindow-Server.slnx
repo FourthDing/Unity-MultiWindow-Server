@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="Structs.cs" />
+  </Folder>
+  <Project Path="TestClient/TestClient.csproj" />
+  <Project Path="WindowServer/WindowServer.csproj" />
+</Solution>
